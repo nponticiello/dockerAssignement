@@ -1,0 +1,188 @@
+{
+  "songs": [
+    {
+      "songTitle": "Magic Trick",
+      "artist": "The Night Game",
+      "album": "Dog Years",
+      "image": "https://m.media-amazon.com/images/I/91sofvVvF0L._SS500_.jpg",
+      "playlistSpot": "1"
+    },
+    {
+      "songTitle": "Hey Mami",
+      "artist": "Sylvan Esso",
+      "album": "Sylvan Esso",
+      "image": "https://f4.bcbits.com/img/a0837854985_10.jpg",
+      "playlistSpot": "2"
+    },
+    {
+      "songTitle": "All Night",
+      "artist": "WALK THE MOON",
+      "album":  "What if Nothing",
+      "image": "https://m.media-amazon.com/images/I/71ojtMacG3S._SL1200_.jpg",
+      "playlistSpot": "3"
+    },
+    {
+      "songTitle": "83",
+      "artist": "John Mayer",
+      "album": "Room For Squares",
+      "image": "https://m.media-amazon.com/images/I/81op6oOUWhL._SL1500_.jpg",
+      "playlistSpot": "4"
+    },
+    {
+      "songTitle": "American Nights",
+      "artist": "The Night Game",
+      "album": "The Night Game",
+      "image": "https://images.genius.com/86c5842eebff8c7455a957ac3989e2b4.1000x1000x1.jpg",
+      "playlistSpot": "5"
+    },
+    {
+      "songTitle": "I Miss You",
+      "artist": "blink-182",
+      "album": "blink-182",
+      "image": "https://m.media-amazon.com/images/I/71VjFFfuJ4L._SL1050_.jpg",
+      "playlistSpot": "6"
+    },
+    {
+      "songTitle": "Kevin",
+      "artist": "Macklemore and Ryan Lewis",
+      "album": "This Unruly Mess I've Made",
+      "image": "https://media.pitchfork.com/photos/5929b36bea9e61561daa6ab7/1:1/w_600/4984cf76.jpg",
+      "playlistSpot": "7"
+    },
+    {
+      "songTitle": "Dress",
+      "artist": "Sylvan Esso",
+      "album": "Sylvan Esso",
+      "image": "https://f4.bcbits.com/img/a0837854985_10.jpg",
+      "playlistSpot":"8"
+    },
+    {
+      "songTitle": "Dunes",
+      "artist": "Alabama Shakes",
+      "album": "Sound & Color",
+      "image": "https://i2.wp.com/cornellsun.com/wp-content/uploads/2017/01/alabama-shakes.jpg?fit=600%2C600&ssl=1",
+      "playlistSpot": "9"
+    },
+
+    {
+      "songTitle": "Better",
+      "artist": "Parachute",
+      "album": "Parachute",
+      "image": "https://m.media-amazon.com/images/I/81ApZSWD33L._SL1500_.jpg",
+      "playlistSpot": "10"
+    },
+    {
+      "songTitle": "Creepin",
+      "artist": "Hayley Williams",
+      "album": "Petals For Armor",
+      "image": "https://m.media-amazon.com/images/I/814IJBSrIFL._SL1425_.jpg",
+      "playlistSpot": "11"
+    },
+    {
+      "songTitle": "Distance",
+      "artist": "One Republic",
+      "album": "Human",
+      "image": "https://i.pinimg.com/736x/7b/92/0c/7b920c6453abddf91c3db414ebf586f3.jpg",
+      "playlistSpot": "12"
+    },
+    {
+      "songTitle": "Stay High",
+      "artist": "Brittany Howard",
+      "album": "Jaime",
+      "image": "https://m.media-amazon.com/images/I/91S3Yplm++L._SL1500_.jpg",
+      "playlistSpot": "13"
+    },
+    {
+      "songTitle": "Something To Believe In",
+      "artist": "Parachute",
+      "album": "The Way It Was",
+      "image": "https://m.media-amazon.com/images/I/71Bzs6NwrYL._SL1269_.jpg",
+      "playlistSpot": "14"
+    },
+    {
+      "songTitle": "Don't Wanna Fight",
+      "artist": "Alabama Shakes",
+      "album": "Sound & Color",
+      "image": "https://i2.wp.com/cornellsun.com/wp-content/uploads/2017/01/alabama-shakes.jpg?fit=600%2C600&ssl=1",
+      "playlistSpot": "15"
+    },
+    {
+      "songTitle": "Run",
+      "artist": "One Republic",
+      "album": "Human",
+      "image": "https://i.pinimg.com/736x/7b/92/0c/7b920c6453abddf91c3db414ebf586f3.jpg",
+      "playlistSpot":"16"
+    },
+    {
+      "songTitle": "Raven",
+      "artist": "Dave Matthews Band",
+      "album": "Busted Stuff",
+      "image": "https://m.media-amazon.com/images/I/81zm25CEDTL._SL1500_.jpg",
+      "playlistSpot":"17"
+    },
+    {
+      "songTitle": "No Such Thing",
+      "artist": "John Mayer",
+      "album": "Room For Squares",
+      "image": "https://m.media-amazon.com/images/I/81op6oOUWhL._SL1500_.jpg",
+      "playlistSpot": "18"
+    },
+    {
+      "songTitle": "Crash Into Me",
+      "artist": "Dave Matthews Band",
+      "album": "Crash",
+      "image": "https://m.media-amazon.com/images/I/71DZQuTJ9yL._SL1500_.jpg",
+      "playlistSpot": "19"
+    },
+    {
+      "songTitle": "Young",
+      "artist": "Parachute",
+      "album": "Parachute",
+      "image": "https://m.media-amazon.com/images/I/81ApZSWD33L._SL1500_.jpg",
+      "playlistSpot": "20"
+    },
+    {
+      "songTitle": "Sudden Desire",
+      "artist": "Hayley Williams",
+      "album": "Petals For Armor",
+      "image": "https://m.media-amazon.com/images/I/814IJBSrIFL._SL1425_.jpg",
+      "playlistSpot": "21"
+    },
+    {
+      "songTitle": "Repeat",
+      "artist": "One Republic",
+      "album": "Human",
+      "image": "https://i.pinimg.com/736x/7b/92/0c/7b920c6453abddf91c3db414ebf586f3.jpg",
+      "playlistSpot":"22"
+    },
+    {
+      "songTitle": "Ocean",
+      "artist": "Parachute",
+      "album": "Parachute",
+      "image": "https://m.media-amazon.com/images/I/81ApZSWD33L._SL1500_.jpg",
+      "playlistSpot": "23"
+    },
+    {
+      "songTitle": "Forgot About You",
+      "artist": "One Republic",
+      "album": "Human",
+      "image": "https://i.pinimg.com/736x/7b/92/0c/7b920c6453abddf91c3db414ebf586f3.jpg",
+      "playlistSpot":"24"
+    },
+
+    {
+      "songTitle": "My Stupid Mouth",
+      "artist": "John Mayer",
+      "album": "Room For Squares",
+      "image": "https://m.media-amazon.com/images/I/81op6oOUWhL._SL1500_.jpg",
+      "playlistSpot": "25"
+    },
+    {
+      "songTitle": "I Feel Like Dancing",
+      "artist": "The Night Game",
+      "album": "Dog Years",
+      "image": "https://m.media-amazon.com/images/I/91sofvVvF0L._SS500_.jpg",
+      "playlistSpot": "6"
+    }
+  ]
+}
